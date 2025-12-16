@@ -1,7 +1,7 @@
-import LogisticsApp from './LogisticsApp';
+import LogisticsTracker from './LogisticsTracker';
 
 function App() {
-  return <LogisticsApp />;
+  return <LogisticsTracker />;
 }
 
 export default App;
